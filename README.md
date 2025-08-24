@@ -38,6 +38,5 @@ Optionally, users can plug in their own AI model endpoint (e.g., OpenAI, Google 
 
 ## 🌐 Live Demo  
 https://krish28060606.github.io/skill-cred-project-1/
-https://krish28060606.github.io/skill-cred-project-1/
 
 ---
